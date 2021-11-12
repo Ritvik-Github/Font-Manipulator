@@ -1,0 +1,17 @@
+.heading{
+    position: fixed;
+    left: 0;
+    top: 0;
+    margin: 0;
+    width: 100%;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: black;
+    text-align: center;
+    color: white;
+}

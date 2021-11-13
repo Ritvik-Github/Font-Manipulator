@@ -15,3 +15,8 @@
     text-align: center;
     color: white;
 }
+
+canvas{
+    border: 5px ridge red;
+    margin: 0;
+}
